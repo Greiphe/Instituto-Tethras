@@ -2,7 +2,7 @@
 https://www.institutotethras.com.br/
 
 <div aligner="center">
-    <img src="https://github.com/Greiphe/Instituto-Tethras/issues/1#issue-1221914110" />
+    <img src="![Captura de tela_2022-04-30_17-23-59](https://user-images.githubusercontent.com/99847920/166121483-14f81c4d-cbc0-490d-aca3-95b27cc28bfd.png)" />
 </div>
 O site de um dos clientes desenvolvido pela GreiNap technology
 onde eu faço parte, por enquanto somos 3 devs, desenvolvemos em grupo eu fiz algumas partes do site
