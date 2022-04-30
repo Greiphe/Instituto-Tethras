@@ -1,6 +1,9 @@
 # Instituto-Tethras
 https://www.institutotethras.com.br/
 
+<div aligner="center">
+    <img src="https://github.com/Greiphe/Instituto-Tethras/issues/1#issue-1221914110" />
+</div>
 O site de um dos clientes desenvolvido pela GreiNap technology
 onde eu faço parte, por enquanto somos 3 devs, desenvolvemos em grupo eu fiz algumas partes do site
 e revisamos o que cada um fez, e ajudei os meus socios e eles me ajudaram tambem, esse site é de um 
