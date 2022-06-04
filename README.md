@@ -1,6 +1,6 @@
 # Instituto Tethras
 
-![Captura de tela_2022-04-30_17-23-59](https://user-images.githubusercontent.com/99847920/166121723-e1113584-6b37-4172-ad64-f4081aab1d5f.png)
+![home](https://user-images.githubusercontent.com/99847920/172025977-0275a270-340b-420f-a58f-27ea7f3907ba.png)
 
 O site de um dos clientes desenvolvido pela GreiNap technology
 onde eu faço parte, por enquanto somos 3 devs, desenvolvemos em grupo eu fiz algumas partes do site
